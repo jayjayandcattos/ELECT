@@ -1,23 +1,17 @@
-ELECT!
+# 🚀 ELECT!  
+### *Electronic Legislative Election Counting Tracker*
 
-Electronic Legislative Election Counting Tracker
+---
 
-ELECT! is a project developed by Group 6 of SBIT-2I for our System Analysis and Design final submission. This system was specifically designed for the Supreme Student Council (SSC) of Quezon City University to help manage elections more efficiently.
+**ELECT!** is a robust election management system crafted by **Group 6 - SBIT-2I** as the culminating project for the **System Analysis and Design** course.
 
-Features
+This system is tailored for the **Supreme Student Council (SSC)** of **Quezon City University** to streamline and secure the entire election process, ensuring transparency and efficiency.
 
-Streamlined election process management
+---
 
-Real-time vote counting and monitoring
+✨ **Key Highlights:**  
+- Real-time vote counting  
+- User-friendly interface  
+- Secure and reliable system  
 
-Secure and user-friendly interface
-
-Technologies Used
-
-PHP
-
-MySQL
-
-JavaScript
-
-HTML & CSS
+---
